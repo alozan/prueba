@@ -1,0 +1,2 @@
+attach(iris)
+plot(iris)
